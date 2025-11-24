@@ -42,6 +42,7 @@
 ### **Tools**
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Confluence-ffffff?style=flat&logo=confluence&logoColor=172B4D"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Swagger-000000?style=flat&logo=swagger&logoColor=85EA2D"/>
 
