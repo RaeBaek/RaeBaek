@@ -41,7 +41,6 @@
 
 ### **Tools**
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Confluence-ffffff?style=flat&logo=confluence&logoColor=172B4D"/>
 <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Swagger-000000?style=flat&logo=swagger&logoColor=85EA2D"/>
@@ -65,8 +64,8 @@
 
 - RxSwift + MVVM + Clean Architecture  
 - Share Extension, Keychain, Supabase Auth  
+- 카메라 기반 의류 촬영 기능 및 CoreML 추론 파이프라인 구축
 - GitHub Actions + TestFlight CI/CD 자동화  
-- UI/UX 개선 및 debounce/throttle 기반 사용자 경험 향상
 
 ---
 
@@ -75,8 +74,8 @@
 
 - Tple 앱 전체 리팩토링 후 2.0 신규 버전 출시
 - PDpop 앱의 결제/로그인/세션 동기화 구조 개선
-- WKWebView ↔ 네이티브 통신, 쿠키 기반 로그인 로직 개선  
-- PG URL Scheme 누락 이슈 분석 및 결제 오류 해결  
+- WKWebView ↔ 네이티브 통신, 쿠키 기반 로그인 로직 개선
+- PG URL Scheme 누락 이슈 분석 및 결제 오류 해결
 - 딥링크 처리 및 WebView 세션 유지 로직 개선
 
 ---
