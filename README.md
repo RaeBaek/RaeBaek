@@ -53,7 +53,7 @@
 ### 🎬 **Showcase — 영화/TV/인물 탐색 앱**
 > SwiftUI + Combine + Tuist 기반 멀티 모듈 사이드 프로젝트
 
-- TMDB API 기반 실서비스 수준 앱  
+- TMDB API 기반 영화·TV·인물 탐색 앱  
 - Clean Architecture 기반 모듈 구조 (App/Core/Features/DesignSystem)  
 - Repository / UseCase / ViewModel 테스트 코드 작성  
 - Pagination, AsyncImage, HLS Streaming Demo 구현  
@@ -70,7 +70,7 @@
 
 ---
 
-### 💼 **Tple 2.0 / PDpop — 실무 프로젝트**
+### 💼 **Tple / PDpop — 실무 프로젝트**
 > 지빅스(Gvix) iOS 개발자로 1년 간 참여
 
 - Tple 앱 전체 리팩토링 후 2.0 신규 버전 출시
